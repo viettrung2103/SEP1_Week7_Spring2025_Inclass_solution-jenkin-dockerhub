@@ -15,7 +15,7 @@ public class TripCostCalculator {
         double kilometers = scanner.nextDouble();
 
         // Ask user for the fuel price per liter
-        System.out.print("Enter the fuel price per liter: ");
+        System.out.print("Enter the fuel price per liter updated: ");
         double fuelPrice = scanner.nextDouble();
 
         // Define fuel consumption rate (liters per 100 km)
