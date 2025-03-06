@@ -4,7 +4,7 @@ pipeline {
             // Define Docker Hub credentials ID
             DOCKERHUB_CREDENTIALS_ID = 'Docker_Hub'
             // Define Docker Hub repository name
-            DOCKERHUB_REPO = 'viettrung21/w7-inclass-jenkin-dockerhub-example'
+            DOCKERHUB_REPO = 'viettrung21/viettrung21/w7-inclass-jenkin-dockerhub-test'
             // Define Docker image tag
             DOCKER_IMAGE_TAG = 'latest_v1'
         }
